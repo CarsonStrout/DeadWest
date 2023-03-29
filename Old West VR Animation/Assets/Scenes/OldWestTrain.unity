@@ -397,7 +397,7 @@ Light:
   m_RenderMode: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 64
   m_RenderingLayerMask: 1
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
@@ -616,7 +616,7 @@ Light:
   m_RenderMode: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 64
   m_RenderingLayerMask: 1
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
@@ -730,7 +730,7 @@ GameObject:
   - component: {fileID: 1391634021}
   - component: {fileID: 1391634020}
   - component: {fileID: 1391634019}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Space Particles 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5542,7 +5542,7 @@ GameObject:
   - component: {fileID: 1562251040}
   - component: {fileID: 1562251039}
   - component: {fileID: 1562251038}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Space Particles 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10353,7 +10353,7 @@ PrefabInstance:
     - target: {fileID: 1412772530462322332, guid: ba57994ebb9087049b6509a7eb8dbca5,
         type: 3}
       propertyPath: m_Name
-      value: train
+      value: train car
       objectReference: {fileID: 0}
     - target: {fileID: 1788207834099528742, guid: ba57994ebb9087049b6509a7eb8dbca5,
         type: 3}
@@ -10485,6 +10485,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8746326935807320834, guid: cd6205173c360554da55419b49d43713,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: -8896051167825165466, guid: 05b78ba5076f4db49a445916fbd1238e,
+        type: 3}
+    - target: {fileID: 8746326935807320834, guid: cd6205173c360554da55419b49d43713,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: c60f6e49583b9c94f883e13af63fb2e2, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd6205173c360554da55419b49d43713, type: 3}
 --- !u!4 &7971555662700454299 stripped
