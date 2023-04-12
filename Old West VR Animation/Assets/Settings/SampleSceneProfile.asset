@@ -122,11 +122,11 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   contrast:
-    m_OverrideState: 0
-    m_Value: -30
+    m_OverrideState: 1
+    m_Value: 20
   colorFilter:
     m_OverrideState: 0
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value: {r: 2, g: 1.4623593, b: 1.1226416, a: 1}
   hueShift:
     m_OverrideState: 0
     m_Value: 0
