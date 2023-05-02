@@ -1,9 +1,29 @@
 fileFormatVersion: 2
-guid: 05b78ba5076f4db49a445916fbd1238e
+guid: 6c37ff75ce6474a448465a31d16afbd9
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsBaked
+    second: {fileID: 2100000, guid: b965c8550d4314048884e9c86e18da45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpetBaked
+    second: {fileID: 2100000, guid: 1dc0864d6532adb489aa1d9181959116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: f6e35515eb3385d4b97b59f863539298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woodBaked
+    second: {fileID: 2100000, guid: 985a86c720cc74a49a13ba14fc076ac5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
