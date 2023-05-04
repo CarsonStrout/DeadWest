@@ -8,7 +8,6 @@ public class AnimationTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("test");
         for (int i = 0; i < animations.Length; i++)
             animations[i].SetTrigger("Start");
     }
