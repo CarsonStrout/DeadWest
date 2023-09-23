@@ -3,7 +3,7 @@
 Dead West
 </h1>
 
-<h3 align="center"><a href="https://drive.google.com/file/d/12Q7eucmwFIlQ50oOr9kwIXYnB8xTB5Z0/view?usp=sharing">Video Showcase</a></h3>
+<h3 align="center"><a href="https://drive.google.com/file/d/12Q7eucmwFIlQ50oOr9kwIXYnB8xTB5Z0/view?usp=sharing" target="_blank">Video Showcase</a></h3>
 
 <h3 align="center"><a href="https://www.boisestate.edu/gimm/">GIMM</a> 200 - Visual Storytelling </h3>
 <h5 align="center"><a href="https://www.boisestate.edu/">Boise State University</a> (Spring 2023) </h5>
