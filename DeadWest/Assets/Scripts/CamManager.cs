@@ -9,6 +9,8 @@ public class CamManager : MonoBehaviour
 
     private void Start()
     {
+        Cursor.visible = false;
+
         if (PlayerPrefs.GetInt("CamToUse") == 0)
         {
             cam.SetActive(false);
